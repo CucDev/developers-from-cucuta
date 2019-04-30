@@ -20,4 +20,4 @@ Why us? Because the Developers from Cucuta are a excelent option to choose. Comp
 
 3. AllTheRooms (https://www.alltherooms.com/)
 
- - Brigite Carolina (https://github.com/caroguerrero)
+ - Brigite Carolina (https://github.com/caroguerrerosilvera)
