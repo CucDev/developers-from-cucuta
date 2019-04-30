@@ -4,7 +4,7 @@ This repo contains a directory of Developers (any lang) from Cúcuta - Colombia.
 
 # How to contribute to this project?
 
-We dont request any documents to confirm your identity. Just follow the Pull Request Template.
+We dont request any documents to confirm your identity. Just read the normativity and follow the Pull Request Template.
 
 # Looking for a Developer? 
 
